@@ -15,7 +15,9 @@ The first step should be obvious.
 ## Step 2: Update Emulators
 
 Dolphin MMJR and Citra MMJ both seem to have more up-to-date versions than the ones downloaded by Pegasus. You can find those on GitHub:
+
 https://github.com/Bankaimaster999/Dolphin-MMJR
+
 https://github.com/weihuoya/citra
 
 ## Step 3: Adjustment to 3ds Metadata.
