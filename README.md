@@ -23,7 +23,7 @@ They are all adequately named, for example: 3ds games go into the `3ds` folder, 
 
 The current Citra configuration has a slight issue. In order to run games off of Citra MMJ, you need to open the file `metadata.pegasus.txt` in the `3ds` folder.
 
-In the `PATH` parameter, replace `documenturi` with `path`.
+In the `GamePath` parameter, replace `documenturi` with `path`.
 ![Adjust 3ds configuration](https://user-images.githubusercontent.com/106119828/169912444-f02e4948-a45d-4837-8292-40d1ba38d3af.png)
 
 
