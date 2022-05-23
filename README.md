@@ -79,6 +79,12 @@ We have configured Pegasus to only read off of internal storage - No fun! This c
 
 From there, navigate to the folder where you moved the files from your Hard Drive to. For me, it was the `roms/[system]` folder still. There, you will find the `metadata.pegasus.txt` that you got from running Pegasus. Click on it, and the folder will be recognized. Repeat this process for all folders that are now located on your SD Card. 
 
+![image](https://user-images.githubusercontent.com/106119828/169915615-e31db0ab-de24-4221-ad35-7127d06fc2ea.png)
+
+![image](https://user-images.githubusercontent.com/106119828/169915568-49f211b4-b1e4-4322-8c1f-e7386147416c.png)
+
+![image](https://user-images.githubusercontent.com/106119828/169915714-f59ea7e1-e681-4da0-ac88-e39af3fdc687.png)
+
 After exiting the menu, Pegasus will ask you if you want to reload the game list - Confirm. Pegasus will then proceed to reload and you should see all of your games, scraped and ready to go!
 
 You can now freely switch between themes and see what fits your taste best.
