@@ -48,8 +48,14 @@ Now, specify the folder in your hard drive containing all your roms and isos. It
 
 Now, we get to the fun part. The themes that Pegasus uses make use of three different media types: Screenshots, 2D Boxarts and Wheels (basically the title images of the respective game). In the "All Systems" Setting on the left hand side, open the tab "Media", and in there, remove the preset media (Internal Mix and Manual) by clicking on the big images and clicking the "-" button to the left of the selection menu.
 
-After that, click "+" and make the following setting: Image - Screenshot
+After that, click "+" and make the following setting:
+
+Image - Screenshot
+
+
 Click "+" another time and use Image - Box 2D
+
+
 Click "+" a final time and use Image - Wheel
 
 That is everything that needs to be set up. The folder should still read `%ROMROOTFOLDER%\media\xxxx` depending on what you chose. These are the locations Pegasus reads from, no need to change anything there.
