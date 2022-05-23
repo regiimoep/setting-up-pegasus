@@ -102,10 +102,14 @@ You may notice that sometimes, games come up multiple times. That is especially 
 For example, I created `.m3u` files for all of my PSX games and ignored all other file extensions by adding an `x` to them in the metadata file:
 
 ![image](https://user-images.githubusercontent.com/106119828/169914927-0909d4e3-5664-4d98-8ea1-1aa702b0df47.png)
+
+
 Use the File names you want to run in the `.m3u` file. You can use any text editor to create them.
 
 ![image](https://user-images.githubusercontent.com/106119828/169915010-5c1cc3d5-3a2a-4a72-ba0b-e0cf44a8e5b7.png)
 Example for an edited metadata file.
+
+For other systems, it may simply suffice to invalidate a few file extensions. In my case, this was possible for PC Engine CD.
 
 ## Step 11 (not optional) - Enjoy playing!
 
