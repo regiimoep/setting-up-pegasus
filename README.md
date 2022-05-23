@@ -8,7 +8,7 @@ The first step should be obvious.
 * Install Termux
 * Allow it to install files from unknown sources in settings
 * Run `/bin/bash -c "$(curl -fsSL https://bit.ly/3ntlzL8)"` on Termux
-* Follow the guide to designate you have on Odin
+* Follow the guide to designate you have an Odin
 * Use "Internal Storage" as the default for the roms-folder location. You can later move folders to the SD Card.
 * When asked if you want to scrape your games, don't! We'll do that on our PC
 
