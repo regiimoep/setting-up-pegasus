@@ -12,13 +12,15 @@ The first step should be obvious.
 * Use "Internal Storage" as the default for the roms-folder location. You can later move folders to the SD Card.
 * When asked if you want to scrape your games, don't! We'll do that on our PC
 
-## Step 2: Update Emulators
+## Step 2: Update Emulators, acquire BIOS files
 
 Dolphin MMJR and Citra MMJ both seem to have more up-to-date versions than the ones downloaded by Pegasus. You can find those on GitHub:
 
 https://github.com/Bankaimaster999/Dolphin-MMJR
 
 https://github.com/weihuoya/citra
+
+Apart from that, for CD-based games such as PC Engine CD, Dreamcast or PSX you require bios files. You can easily find them by googling for bios sets for RetroArch. Simply put them into the `RetroArch/system` folder on your internal storage.
 
 ## Step 3: Adjustment to 3ds Metadata.
 
