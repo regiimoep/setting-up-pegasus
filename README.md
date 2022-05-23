@@ -65,6 +65,8 @@ That is everything that needs to be set up. The folder should still read `%ROMRO
 
 You can now click the big run button on the bottom right side and let the scraping begin! It may take a while as Screenscraper's servers are not the fastest, but rest assured that most of you games will probably be found.
 
+**NOTE**: Sometimes, Skraper will create `.dat` files after scraping. These are completely unnecessary and can be discarded.
+
 ## Step 6: Manually adding Screenshots or Boxart
 
 Sometimes, you want to use Romhacks or games that are unknown even to Screenscraper (rare occurence, but it happens). For these cases, you can now visit the `roms/[system]/media` folders and insert your own image files. **The only thing you need to ensure is that the image files are the same as the filename of your ROM/ISO!**
