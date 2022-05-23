@@ -34,7 +34,7 @@ They are all adequately named, for example: 3ds games go into the `3ds` folder, 
 
 ## Step 5: Setting up SkraperUI
 
-We want to use Skraper, which exclusively uses Screeenscraper.fr for the retrieval of data. It's able to read the file data an compare checksums in order to find the correct cover art, in case some files are misnamed. It also has a huge repository of Cover Art, Screenshots, and the like.
+We want to use [Skraper](http://skraper.net/#download), which exclusively uses Screeenscraper.fr for the retrieval of data. It's able to read the file data an compare checksums in order to find the correct cover art, in case some files are misnamed. It also has a huge repository of Cover Art, Screenshots, and the like.
 
 In order to use it, you need to first create an account with https://screenscraper.fr/. After that, load the SkraperUI executable and input your login data. After clicking "Validate", you can continue.
 
