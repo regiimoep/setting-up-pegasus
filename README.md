@@ -20,6 +20,9 @@ https://github.com/Bankaimaster999/Dolphin-MMJR
 
 https://github.com/weihuoya/citra
 
+*This is also a good opportunity to run all emulators at least once to give them access to your storage 
+That will be important going forward.*
+
 Apart from that, for CD-based games such as PC Engine CD, Dreamcast or PSX you require bios files. You can easily find them by googling for bios sets for RetroArch. Simply put them into the `RetroArch/system` folder on your internal storage.
 
 ## Step 3: Adjustment to 3ds Metadata.
