@@ -76,11 +76,11 @@ You can now click the big run button on the bottom right side and let the scrapi
 
 Sometimes, you want to use Romhacks or games that are unknown even to Screenscraper (rare occurence, but it happens). For these cases, you can now visit the `roms/[system]/media` folders and insert your own image files. **The only thing you need to ensure is that the image files are the same as the filename of your ROM/ISO!**
 
-## Stzep 7: Move your folders
+## Step 7: Move your folders
 
 Now you're basically done with the initial setup + scraping. Move the folders to your Odin's internal storage, or put them into your SD Card. **Pay attention, as AetherSX2 is unable to run games from the SD Card, but running from internal Storage does work**.
 
-**Please keep in mind that this is the case for Pegasus running AetherSX2, not AETHERSX2 in general. With less space, you can definitely put PS2 games on your SD card, but it is not possible to run them directly from Pegasus then.***
+**Please keep in mind that this is the case for Pegasus running AetherSX2, not AetherSX2 in general. With less space, you can definitely put PS2 games on your SD card, but it is not possible to run them directly from Pegasus then.**
 
 **One more caveat: In my experience, it is not possible to run WBFS Wii Games from SD Card, it is therefore recommended to convert all games to either Nkit or ISO formats for proper compatibilty**.
 
