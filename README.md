@@ -25,6 +25,13 @@ That will be important going forward.*
 
 Apart from that, for CD-based games such as PC Engine CD, Dreamcast or PSX you require bios files. You can easily find them by googling for bios sets for RetroArch. Simply put them into the `RetroArch/system` folder on your internal storage.
 
+## Step 2.1: Installing Cores
+
+Pegasus does a good job preconfiguring your emulators, but the cores still need to be activated. 
+
+* For that, visit the menu "Load Core" and from there "Install or Restore a Core".
+* From there, you already should be in the correct folder to simply click through all of the `so` files located in the folder `RetroArchg/downloads`. After having loaded `mgba`, for example, you will be able to play GBA games.
+
 ## Step 3: Adjustment to 3ds Metadata.
 
 The current Citra configuration has a slight issue. In order to run games off of Citra MMJ, you need to open the file `metadata.pegasus.txt` in the `3ds` folder.
